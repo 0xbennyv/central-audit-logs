@@ -6,3 +6,5 @@ By default this will output to a file, however there's a sample function for exp
 This has been built using selenium and using a chrome driver, however firefox will work also. It can be ran headless on a server is required.
 
 This is provided as is and will be updated with OTP support. Log and Issue or Submit a pull request if you want any changes.
+
+Credentials are stored in a .env file, keep it secure.
